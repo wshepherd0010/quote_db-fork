@@ -38,3 +38,6 @@ To run on a custom port:
 ## Solution
 
 A solution PoC script is included (`poc.py`). I recommend that you don't look at it until after solving the challenge, as it will spoil the fun.
+
+## References
+# https://connormcgarr.github.io/ROP2/
